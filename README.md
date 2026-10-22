@@ -123,24 +123,6 @@ Install the libraries:
 pip install pandas numpy matplotlib seaborn statsmodels scikit-learn ISLP jupyter
 ```
 
-## Running the Practicals
-
-For datasets supplied by `ISLP`, use the loading pattern shown in the practical record:
-
-```python
-from ISLP import load_data
-
-auto = load_data("Auto")
-```
-
-For a local CSV dataset:
-
-```python
-import pandas as pd
-
-college = pd.read_csv("College.csv", index_col=0)
-```
-
 ## Repository Structure
 
 ```text
