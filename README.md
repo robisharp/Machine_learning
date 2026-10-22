@@ -128,16 +128,16 @@ pip install pandas numpy matplotlib seaborn statsmodels scikit-learn ISLP jupyte
 ```text
 machine-learning/
 ├── README.md
-├── 01_eda_auto.ipynb
-├── 02_college_eda.ipynb
-├── 03_multiple_linear_regression_auto.ipynb
-├── 04_linear_regression_boston.ipynb
-├── 05_weekly_classification.ipynb
-├── 06_auto_mileage_classification.ipynb
-├── 07_validation_set_default.ipynb
-├── 08_loocv_weekly.ipynb
-├── 09_regularization_college.ipynb
-├── 10_bootstrap_boston.ipynb
+├── 01_eda_auto
+├── 02_college_eda
+├── 03_multiple_linear_regression_auto
+├── 04_linear_regression_boston
+├── 05_weekly_classification
+├── 06_auto_mileage_classification
+├── 07_validation_set_default
+├── 08_loocv_weekly
+├── 09_regularization_college
+├── 10_bootstrap_boston
 ```
 
 ## Important Reproducibility Notes
